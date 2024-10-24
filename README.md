@@ -4,7 +4,7 @@
 ![FlowChart](https://github.com/HossamGamalElhelw/MyBank/blob/main/images/Bankist-flowchart.png)
 
 # Summary Description : 
-I’ve completed a JavaScript project called "MyBank" that simulates basic banking operations with two accounts:
+there are two accounts:
 
 First Account:
 
